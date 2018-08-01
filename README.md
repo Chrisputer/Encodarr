@@ -1,0 +1,2 @@
+# Encodarr
+Automated library encoder

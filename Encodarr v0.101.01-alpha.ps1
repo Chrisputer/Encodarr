@@ -31,7 +31,7 @@ $PVRIP = "192.168.1.11"
 $PVRPORT = "8989"
 
 #--Sonarr/Radarr API Key--#
-$PVRAPI = "64bb501f1cc143a199970573516b40e9"
+$PVRAPI = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 #--Fetches list of files--#
